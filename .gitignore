@@ -30,7 +30,7 @@ Thumbs.db
 
 ###################### IDE configurations #######
 
-########### IntelliJ Idea
+########### JetBrains
 .idea/
 .intellij/
 *.eml
@@ -38,9 +38,6 @@ Thumbs.db
 *.iml
 *.ipr
 out/
-
-########### GoLand
-# -
 
 ########### Visual Studio Code
 .vscode
@@ -67,7 +64,5 @@ out/
 *.pb.go
 
 ########### Project specific
-vendor/*
-!vendor/.gitkeep
 grpc-server
 grpc-client
